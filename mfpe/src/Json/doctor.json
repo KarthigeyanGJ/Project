@@ -1,0 +1,42 @@
+[
+  {
+    "id":1,
+    "name": "Dr. Praavin Deshpande",
+    "Specialization": "MBBS MD",
+    "Gender": "Male",
+    "email": "pravin@gmail.com",
+    "available": "yes"
+  },
+  {
+    "id":2,
+    "name": "Dr. rkliugijo emrk",
+    "Specialization": "MBBS MD dv",
+    "Gender": "feMale",
+    "email": "pravin@gmail.dsscom",
+    "available": "no"
+  },
+  {
+    "id":"3",
+    "name": "Dr. Praavin Deshpande",
+    "Specialization": "MBBS MD",
+    "Gender": "Male",
+    "email": "pravin@gmail.com",
+    "available": "yes"
+  },
+  {
+    "id":"4",
+    "name": "Dr. Praavin Deshpande",
+    "Specialization": "MBBS MD",
+    "Gender": "Male",
+    "email": "pravin@gmail.com",
+    "available": "yes"
+  },
+  {
+    "id":"5",
+    "name": "Dr. Praavin Deshpande",
+    "Specialization": "MBBS MD",
+    "Gender": "Male",
+    "email": "pravin@gmail.com",
+    "available": "yes"
+  }
+]

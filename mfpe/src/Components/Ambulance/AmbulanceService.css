@@ -1,0 +1,21 @@
+.ambulance{
+    margin-top:40%;
+    margin-bottom:30%;
+    padding-top:6%;
+    padding-bottom:6%;}
+.card{
+    background-color: #F0F6F7;
+}
+.available{
+   
+
+    object-fit:contain;
+}
+@media(min-width:600px){
+    .ambulance{
+        margin-top:15%;
+        margin-bottom:10%;
+        padding-top:6%;
+        padding-bottom:6%;
+    }
+}

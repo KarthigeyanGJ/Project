@@ -1,0 +1,63 @@
+.masthead {
+    background-image: url("../../Images/hospital2.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    position: relative !important;
+    color: white;
+    text-shadow:2px 2px 2px rgba(0,0,0,.2) ;
+    background-size: 100% 100%;
+}
+h1{
+    font-size: 4rem;
+
+}
+.color-overlay {
+    position:absolute;
+    width: 100%;
+        height: 140%;
+}
+.color-overlay1 {
+    position:absolute;
+    width: 100%;
+    height: 80%;
+}
+@media(max-width:760px){
+    .color-overlay {
+        position:absolute;
+        width: 100%;
+        height: 140%;
+    }
+   
+}
+
+@media(max-width:400px){
+    .color-overlay {
+        position:absolute;
+        width: 100%;
+        height: 140%;
+    }
+    .masthead{
+        min-height: 60vh;
+    }
+    h1 {
+        font-size:calc(1.525rem + 3.3vw) ;
+    }
+    .but1{
+        font-size: 10px;
+    }
+    .cap1{
+        font-size: 20px;
+    }
+    .blockq{
+        font-size: 25px;
+    }
+    .content {
+        color: rgb(5, 103, 103);
+        font-size: 18px;
+    }
+}
+
+.buttons{
+    margin-left: 3px;
+    margin-right: 6px;
+}

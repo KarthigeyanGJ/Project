@@ -1,0 +1,30 @@
+.appointment{
+    margin-top:40%;
+    margin-bottom:30%;
+    padding-top:6%;
+    padding-bottom:6%;
+   background-image: url("../../Images/pic1.jpg"); 
+    background-size: cover;
+    background-size: 100% 100%;
+   
+
+   
+
+
+}
+.card{
+    background-color: #F0F6F7;
+}
+.available{
+   
+
+    object-fit:contain;
+}
+@media(min-width:600px){
+    .appointment{
+        margin-top:15%;
+        margin-bottom:10%;
+        padding-top:6%;
+        padding-bottom:6%;
+    }
+}

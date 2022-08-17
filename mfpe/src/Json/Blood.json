@@ -1,0 +1,37 @@
+[
+    {
+        "no":"1",
+        "group":"A",
+        "available":"22"
+    },
+    {
+        "no":"2",
+        "group":"A-",
+        "available":"10"
+    },
+    {
+        "no":"3",
+        "group":"B",
+        "available":"12"
+    },
+    {
+        "no":"4",
+        "group":"B+",
+        "available":"99"
+    },
+    {
+        "no":"5",
+        "group":"B-",
+        "available":"0"
+    },
+    {
+        "no":"6",
+        "group":"C",
+        "available":"35"
+    },
+    {
+        "no":"7",
+        "group":"C-",
+        "available":"120"
+    }
+]

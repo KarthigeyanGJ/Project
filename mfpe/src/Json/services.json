@@ -1,0 +1,27 @@
+ [
+    {
+        "id" : "1",
+        "serviceName" : "Ram bhau X-Ray",
+        "serviceDescription" : "It's a very good service",
+        "phoneNo":"9900887567",
+        "Timings":"7am - 9pm",
+        "learnMore":"https//:google.com"
+    },
+    {
+        "id" : "2",
+        "serviceName" : "Johnathan blood Testing",
+        "serviceDescription" : "It's a very good service",
+        "phoneNo":"0099887723",
+        "Timings":"10am - 6pm",
+        "learnMore":"https//:google.com"
+    },
+    {
+        "id" : "3",
+        "serviceName" : "Sanjivani Medical Store",
+        "serviceDescription" : "We sell medicines",
+        "phoneNo":"9182019275",
+        "Timings":"7-9",
+        "learnMore":"https//:google.com"
+    }
+
+]

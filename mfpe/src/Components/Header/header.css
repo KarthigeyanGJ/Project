@@ -1,0 +1,40 @@
+.navbar {
+    background: transparent !important;
+    height: 80px !important;
+    display: flex !important;
+    
+    font-size: 1.2rem !important;
+    
+}
+@media(max-width:770px){
+   .navbar{ background: rgb(0, 0, 0)!important;
+   }
+   .navbar-collapse{
+    background-color: black;
+    width: 140%;
+}
+.nav-link {
+    color: white !important;
+}
+
+
+}
+.navbar.active{
+    background: rgb(0, 0, 0)!important;
+    -webkit-transition: all 0.6s ease-out;
+    -moz-transition: all 0.6s ease-out;
+    -o-transition: all 0.6s ease-out;
+    -ms-transition: all 0.6s ease-out;
+    transition: all 0.6s ease-out;
+    opacity: 0.9;
+    color: white !important;
+    height: 100vh;
+
+    
+   
+}
+
+
+
+
+

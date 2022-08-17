@@ -1,0 +1,16 @@
+.blood{
+    background-image: url('../../Images/blood.png');
+    height :100vh;
+
+}
+.bed{
+    background-image: url('../../Images/bed3.jpg');
+    height: 70vh;
+
+
+}
+.imcov{
+    background-size: cover;
+    position: relative;
+    object-position: center;
+    background-size: 100% 100%;    }

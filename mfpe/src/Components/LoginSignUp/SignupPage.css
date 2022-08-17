@@ -1,0 +1,32 @@
+.signup{
+    margin-top:40%;
+    margin-bottom:30%;
+    padding-top:6%;
+    padding-bottom:6%;
+
+
+}
+@media(min-width:600px){
+    .signup{
+        margin-top:15%;
+        margin-bottom:10%;
+        padding-top:6%;
+        padding-bottom:6%;
+    }
+}
+.signup{
+    margin-top:40%;
+    margin-bottom:30%;
+    padding-top:6%;
+    padding-bottom:6%;
+
+
+}
+@media(min-width:600px){
+    .signup{
+        margin-top:15%;
+        margin-bottom:10%;
+        padding-top:6%;
+        padding-bottom:6%;
+    }
+}
